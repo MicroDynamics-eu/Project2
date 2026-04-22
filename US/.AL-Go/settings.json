@@ -3,5 +3,6 @@
   "country": "us",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "artifact": "bcartifacts/sandbox/28.0.0.0/us/closest"
 }

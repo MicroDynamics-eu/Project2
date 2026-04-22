@@ -19,3 +19,7 @@ rad.json
 .snapshots/
 cache_*
 ~$*
+
+# Local developer workspace
+bc-solution.code-workspace
+
